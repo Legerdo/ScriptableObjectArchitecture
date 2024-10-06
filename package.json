@@ -1,0 +1,33 @@
+{
+  "name": "com.legeodo.scriptableobjectarchitecture",
+  "version": "1.0.0",
+  "displayName": "Scriptable Object Architecture",
+  "dependencies": {},
+  "author": {
+    "name": "Legeodo"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Legerdo/ScriptableObjectArchitecture.git",
+    "revision": "main"
+  },
+  "samples":
+  [
+      {
+          "displayName": "Ability",
+          "path": "Samples~/Ability"
+      },
+      {
+          "displayName": "Event",
+          "path": "Samples~/Event"
+      },
+      {
+          "displayName": "HP",
+          "path": "Samples~/HP"
+      },
+      {
+          "displayName": "Thing",
+          "path": "Samples~/Thing"
+      }
+  ]  
+}
